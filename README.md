@@ -7,8 +7,9 @@
 - Created pivot tables.
 - Created a Dashboard.
 
+
 ## Dashboard
 
-<img src="https://postimg.cc/rdcrDGw2">
+![Screenshot 2023-12-19 231944](https://github.com/bhavanachitragar/Bike-Sales-Analysis/assets/91766461/a0b157da-cb0a-4bb6-9e12-e7dc134b6706)
 ----------------------------------------------------------------
 Prepinstaprime
