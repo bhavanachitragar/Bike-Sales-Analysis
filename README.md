@@ -9,6 +9,6 @@
 
 ## Dashboard
 
-<img src="https://github.com/bhavanachitragar/Bike-Sales-Analysis/issues/1#issue-2049212825">
+<img src="https://postimg.cc/rdcrDGw2">
 ----------------------------------------------------------------
 Prepinstaprime
